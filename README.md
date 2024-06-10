@@ -1,3 +1,5 @@
+[![inflector Downloads Last Month](https://assets.piptrends.com/get-last-month-downloads-badge/inflector.svg 'inflector Downloads Last Month by pip Trends')](https://piptrends.com/package/inflector)
+
 # Inflector for Python
 
 The Inflector is used for getting the plural and singular form of nouns. This piece of code helps on creating code that favors convention over configuration.
